@@ -145,3 +145,34 @@ body{
 
     }
 }
+
+@media only screen and (max-width: 1200px){
+
+    .quiz-home{
+        margin-top: 30%;
+        padding: 10%;
+    }
+
+    .Quiz-question{
+        .QuizSection{
+            width: 90%;
+            margin-top: 5%;
+            .options{
+                grid-template-columns: repeat(1,1fr);
+            }
+        }
+        .buttons{
+            display: flex;
+            flex-direction: column;
+            button{
+                margin: 2%;
+            }
+        }
+    }
+}
+
+.score{
+    padding-top: 30%;
+    .container{
+    }
+}
