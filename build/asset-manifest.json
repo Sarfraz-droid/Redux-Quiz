@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.56090cc8.chunk.css",
+    "main.css": "/static/css/main.9f58f3d4.chunk.css",
     "main.js": "/static/js/main.ef14badf.chunk.js",
     "main.js.map": "/static/js/main.ef14badf.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.58f0fe81.js",
@@ -8,14 +8,14 @@
     "static/js/2.51a952e9.chunk.js": "/static/js/2.51a952e9.chunk.js",
     "static/js/2.51a952e9.chunk.js.map": "/static/js/2.51a952e9.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.56090cc8.chunk.css.map": "/static/css/main.56090cc8.chunk.css.map",
+    "static/css/main.9f58f3d4.chunk.css.map": "/static/css/main.9f58f3d4.chunk.css.map",
     "static/js/2.51a952e9.chunk.js.LICENSE.txt": "/static/js/2.51a952e9.chunk.js.LICENSE.txt",
     "static/media/home.scss": "/static/media/confetti-doodles.799f029a.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.58f0fe81.js",
     "static/js/2.51a952e9.chunk.js",
-    "static/css/main.56090cc8.chunk.css",
+    "static/css/main.9f58f3d4.chunk.css",
     "static/js/main.ef14badf.chunk.js"
   ]
 }
