@@ -1,0 +1,42 @@
+[
+    {
+        "Question" : " 'OS' computer abbreviation usually means?",
+        "Answer" : 2,
+        "Options" : [
+            "Order of Significance",
+            "Open Software",
+            "Operating System",
+            "Optical Sensor"
+        ]
+    },
+    {
+        "Question" : "'.MOV' extension refers usually to what kind of file?",
+        "Answer" : 1,
+        "Options" : [
+            "Image file",
+            "Animation/movie file",
+            "Audio file",
+            "MS Office document"
+        ]
+    },
+    {
+        "Question" : "'.MPG' extension refers usually to what kind of file?",
+        "Answer" : 2,
+        "Options" : [
+            "Word Perfect Document file",
+            "MS Office document",
+            "Animation/movie file",
+            "Image file"
+        ]
+    },
+    {
+        "Question" : "Who developed Yahoo?",
+        "Answer" : 1,
+        "Options" : [
+            "Dennis Ritchie & Ken Thompson",
+            "David Filo & Jerry Yang",
+            "Vint Cerf & Robert Kahn",
+            "Steve Case & Jeff Bezos"
+        ]
+    }
+]
